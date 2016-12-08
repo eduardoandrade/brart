@@ -1,2 +1,2 @@
 # brart
-*** Código utilizado como parte do trabalho de Laboratório de Sistemas Ubíquos ***
+*** Repositório utilizado como parte do trabalho de Laboratório de Sistemas Ubíquos ***
